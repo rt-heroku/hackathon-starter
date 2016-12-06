@@ -5,5 +5,5 @@
   "repository": "https://github.com/rt-heroku/hackathon-starter",
   "logo": "https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png",
   "scripts": {},
-  "addons": ["mongolab"]
+  "addons": "mongolab"
 }
