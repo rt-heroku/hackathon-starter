@@ -6,6 +6,8 @@ Hackathon Starter
 
 **Live Demo**: http://hackathonstarter-sahat.rhcloud.com
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 Jump to [What's new in 4.3.0?](#changelog)
 
 :bulb: Looking for ES5 code? [Click here](https://github.com/sahat/hackathon-starter/tree/es5).
@@ -1198,6 +1200,8 @@ Again, there are plenty of other choices and you are not limited to just the one
 listed below.
 
 ### 1-Step Deployment with Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 <img src="http://blog.exadel.com/wp-content/uploads/2013/10/heroku-Logo-1.jpg" width="200">
 - Download and install [Heroku Toolbelt](https://toolbelt.heroku.com/)
