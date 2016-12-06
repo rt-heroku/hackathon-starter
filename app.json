@@ -1,0 +1,9 @@
+{
+  "name": "Hackathon starter running on Heroku ",
+  "description": "A boilerplate for Node.js web applications.",
+  "website": "https://github.com/rt-heroku/hackathon-starter",
+  "repository": "https://github.com/rt-heroku/hackathon-starter",
+  "logo": "https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png",
+  "scripts": {},
+  "addons": ["mongolab"]
+}
